@@ -7,7 +7,7 @@
 
 ## Installation
 
-Step I: Install the required packages
+#### Step I: Install the required packages
 
 On the terminal, move into Real-Time Traffic Management System/Code
 
@@ -17,7 +17,7 @@ On the terminal, move into Real-Time Traffic Management System/Code
  
  $ python setup.py build_ext –inplace
  
-Step II: Run the code
+#### Step II: Run the code
 
 To run vehicle detection
 
