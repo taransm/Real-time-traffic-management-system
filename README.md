@@ -27,11 +27,11 @@ To run vehicle detection
  
  $ python simulation.py
  
- <img src="./readmeAssets/1.png" width=350 height=450></img>
-  <img src="./readmeAssets/3.png" width=350 height=450></img>
+<img src="./readmeAssets/1.png" width=350 height=450></img>
+<img src="./readmeAssets/3.png" width=350 height=450></img>
 <img src="./readmeAssets/4.png" width=350 height=450></img>
 <img src="./readmeAssets/5.png" width=400 height=450></img>
 <img src="./readmeAssets/6.png" width=600 height=450></img>
- <img src="./readmeAssets/2.png" ></img>
+<img src="./readmeAssets/2.png" ></img>
 
 
